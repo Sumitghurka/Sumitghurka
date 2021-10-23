@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sumit Ghurka
+- 👀 I’m interested in AI, Algorithms and Security
+- 🌱 I’m currently pursuing bachelor's degree in Information Technology
+- 💞️ I’m looking to contribute in open source projects
